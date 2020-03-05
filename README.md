@@ -15,9 +15,13 @@ as many isolation opportunities as they could on offense.
 
 
 Acknowledgements: 
+
 Postseason league average data was pulled from stats.nba.com using the NBA API developed by github user "swar": 
+
 https://github.com/swar/nba_api
 
+
 Regular season league average data was found on Basketball-Reference: 
+
 https://www.basketball-reference.com/leagues/NBA_stats_per_game.html
 
