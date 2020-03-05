@@ -12,7 +12,7 @@ of the explosion of three-point attempts over the past few years as a result of 
 offensive system, as well as the "dark ages" of efficiency in the early to mid aughts when many teams sought to create
 as many isolation opportunities as they could on offense.
 
-
+For clarity, "2020 season" refers to the 2019-20 season, thus there is no datapoint for 2020 postseason yet.
 
 
 
