@@ -11,3 +11,10 @@ Over the past 20 years, the offensive principles of the league have changed dras
 of the explosion of three-point attempts over the past few years as a result of the Golden State Warriors' revolutionary
 offensive system, as well as the "dark ages" of efficiency in the early to mid aughts when many teams sought to create
 as many isolation opportunities as they could on offense.
+
+
+
+Acknowledgements: 
+Postseason league average data was pulled from stats.nba.com using the NBA API developed by github user "swar": https://github.com/swar/nba_api
+Regular season league average data was found on Basketball-Reference: https://www.basketball-reference.com/leagues/NBA_stats_per_game.html
+
